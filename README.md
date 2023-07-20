@@ -4,7 +4,7 @@ https://t.me/ponquitter
 
 1. Форкаем этот репозиторий.
 
-2. Создаем API ключ, нажимаем Generate new token (classic). Выставляем "No 
+2. [Создаем API ключ](https://github.com/settings/tokens/new), нажимаем Generate new token (classic). Выставляем "No 
 Expiration" и прожимаем все галочки. Копируем ключ и сохраняем для дальнейшего
 использования.
 ![telegram-cloud-photo-size-4-5894089822413369445-w](https://github.com/hhermesa/randomCatFacts/assets/56301001/4186ea57-a5c0-439f-8ad2-fae44f83f903)
