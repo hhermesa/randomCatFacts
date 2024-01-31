@@ -1,0 +1,12 @@
+[
+  {
+    "username": "user1",
+    "repositoryUrl": "git@github.com:hhermesa/randomCatFacts.git",
+    "token": "user1_token"
+  },
+  {
+    "username": "user2",
+    "repositoryUrl": "git@github.com:hhermesa/randomCatFacts.git",
+    "token": "user2_token"
+  }
+]
