@@ -2,7 +2,7 @@
 const { Octokit } = require('@octokit/rest');
 
 //Insert your GitHub tokens here in next format ['token1', 'token2', 'token3']
-const gitTokens = ['token1', 'token2']
+const gitTokens = ['token1', 'token2'];
 
 //Insert your GitHub names here in next format ['name1', 'name2', 'name3']
 const gitNames = ['name1', 'name2']
